@@ -1,0 +1,4 @@
+模型运行时
+chemical实体预测结果输出在ner_output_ch文件夹
+gene实体预测结果输出在ner_output_ge文件夹
+disease实体预测结果输出在ner_output_di文件夹
