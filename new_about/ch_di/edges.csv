@@ -1,0 +1,32 @@
+start,relation,end,date
+arginine,role-in-disease-pathogenesis,cancer,2024/11/30
+arginine,role-in-disease-pathogenesis,TNBC,2024/11/30
+YZ 836P,treatment,TNBC,2024/11/30
+glutathione,treatment,NPC,2024/11/30
+glutathione,treatment,nasopharyngeal carcinoma,2024/11/30
+glutathione,treatment,oral mucositis,2024/11/30
+GSH,treatment,SOM,2024/11/30
+GSH,treatment,Non SOM,2024/11/30
+AOC,treatment,SOM,2024/11/30
+AOC,treatment,Non SOM,2024/11/30
+GSH,treatment,NPC,2024/11/30
+iron,prevents,Ferroptosis,2024/11/30
+iron,treatment,non cancer,2024/11/30
+polypropylene,treatment,thoraco abdominal wall defects,2024/11/30
+polypropylene,treatment,chondrosarcoma,2024/11/30
+hesperetin,treatment,triple negative breast cancer,2024/11/30
+hesperetin,treatment,tumor,2024/11/30
+hesperetin,treatment,TNBC,2024/11/30
+TEA,treatment,anastomotic ulcers,2024/11/30
+TEA,treatment,Reflux esophagitis,2024/11/30
+TEA,treatment,dumping syndrome,2024/11/30
+TEA,treatment,diarrhea,2024/11/30
+iron,treatment,metastasis,2024/11/30
+iron,treatment,CRC,2024/11/30
+iron,treatment,TME,2024/11/30
+oxygen,treatment,Breast cancer,2024/11/30
+vitamin C,treatment,tumors,2024/11/30
+vitamin C,treatment,cancer,2024/11/30
+vitamin C,treatment,breast cancer,2024/11/30
+iron,treatment,cancer,2024/11/30
+iron,treatment,tumor,2024/11/30

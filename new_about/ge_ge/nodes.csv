@@ -1,0 +1,73 @@
+:ID,:TYPE,name
+ge11,Gene,type II protein arginine methyltransferase
+ge41,Gene,KLF5
+ge18,Gene,CRBN
+ge24,Gene,glutathione peroxidase
+ge43,Gene,extracellular matrix
+ge47,Gene,AURKA
+ge63,Gene,HFPN
+ge7,Gene,aurora kinase A
+ge2,Gene,MMP9
+ge28,Gene,ECM
+ge17,Gene,POSTN
+ge6,Gene,periostin
+ge15,Gene,LAG 3
+ge14,Gene,TGF beta
+ge1,Gene,p38MAPK
+ge3,Gene,FGF1
+ge55,Gene,p21
+ge4,Gene,rs4696483
+ge42,Gene,Ki 67
+ge27,Gene,FAM72D
+ge29,Gene,OPN
+ge12,Gene,Itga9
+ge52,Gene,Runx
+ge36,Gene,ITGA9
+ge44,Gene,HNF1a
+ge8,Gene,AMPK
+ge13,Gene,HKDC1
+ge69,Gene,PRMT5
+ge50,Gene,GSH PX
+ge49,Gene,TME
+ge72,Gene,hesperetin
+ge47,Gene,AURKA
+ge63,Gene,HFPN
+ge43,Gene,extracellular matrix
+ge10,Gene,matrix metalloprotease 9
+ge28,Gene,ECM
+ge40,Gene,dysadherin
+ge65,Gene,Periostin
+ge58,Gene,immunoglobulin superfamily
+ge21,Gene,CD4
+ge25,Gene,Ig like domains
+ge70,Gene,PD 1 antibodies
+ge51,Gene,TGF beta1
+ge75,Gene,MAPK
+ge35,Gene,ROS
+ge14,Gene,TGF beta
+ge23,Gene,collagen
+ge59,Gene,GRB14
+ge26,Gene,PDGFRA
+ge34,Gene,PAK3
+ge48,Gene,PRKD1
+ge16,Gene,anti PD1
+ge74,Gene,p27
+ge19,Gene,Toll like receptor 2 rs4696483
+ge66,Gene,rs1898830
+ge64,Gene,TLR 2 rs1898830
+ge38,Gene,MAF
+ge54,Gene,LUAD
+ge39,Gene,osteopontin
+ge57,Gene,integrin alpha9
+ge31,Gene,Itga9 OE
+ge52,Gene,Runx
+ge12,Gene,Itga9
+ge68,Gene,Akt
+ge60,Gene,Myc
+ge36,Gene,ITGA9
+ge62,Gene,ITGA9 OE
+ge73,Gene,HNF1alpha
+ge45,Gene,hexokinase domain component 1
+ge44,Gene,HNF1a
+ge13,Gene,HKDC1
+ge71,Gene,AKT

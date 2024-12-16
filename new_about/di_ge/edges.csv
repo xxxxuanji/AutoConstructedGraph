@@ -1,0 +1,94 @@
+start,relation,end,date
+triple negative breast cancer,biomarkers,PRMT5,2024/11/30
+cancer,biomarkers,type II protein arginine methyltransferase,2024/11/30
+cancer,biomarkers,PRMT5,2024/11/30
+TNBC,biomarkers,KLF5,2024/11/30
+TNBC,biomarkers,PRMT5,2024/11/30
+NPC,biomarkers,glutathione peroxidase,2024/11/30
+NPC,biomarkers,GSH PX,2024/11/30
+Non SOM,biomarkers,GSH PX,2024/11/30
+SOM,biomarkers,GSH PX,2024/11/30
+cancer,biomarkers,TME,2024/11/30
+TME,biomarkers,TME,2024/11/30
+cytokine release syndrome,biomarkers,TME,2024/11/30
+triple negative breast cancer,biomarkers,AURKA,2024/11/30
+triple negative breast cancer,biomarkers,hesperetin,2024/11/30
+tumor,biomarkers,hesperetin,2024/11/30
+TNBC,biomarkers,aurora kinase A,2024/11/30
+TNBC,biomarkers,AURKA,2024/11/30
+TNBC,biomarkers,hesperetin,2024/11/30
+tumor,biomarkers,AURKA,2024/11/30
+tumor,biomarkers,HFPN,2024/11/30
+cancer,biomarkers,MMP9,2024/11/30
+cancer,biomarkers,dysadherin,2024/11/30
+cancer,biomarkers,extracellular matrix,2024/11/30
+metastasis,biomarkers,TME,2024/11/30
+tumor,biomarkers,extracellular matrix,2024/11/30
+tumor,biomarkers,TME,2024/11/30
+cancer,biomarkers,matrix metalloprotease 9,2024/11/30
+cancer,biomarkers,ECM,2024/11/30
+malignant TME,biomarkers,MMP9,2024/11/30
+malignant TME,biomarkers,dysadherin,2024/11/30
+CRC,biomarkers,ECM,2024/11/30
+CRC,biomarkers,dysadherin,2024/11/30
+CRC,biomarkers,TME,2024/11/30
+cancer,biomarkers,POSTN,2024/11/30
+cancer,biomarkers,Periostin,2024/11/30
+metastasis,biomarkers,periostin,2024/11/30
+tumor,biomarkers,periostin,2024/11/30
+TME,biomarkers,periostin,2024/11/30
+cancer,biomarkers,periostin,2024/11/30
+tumor,biomarkers,WDFY4,2024/11/30
+cancer,biomarkers,WDFY4,2024/11/30
+tumors,biomarkers,WDFY4,2024/11/30
+glioma,biomarkers,WDFY4,2024/11/30
+cancer,biomarkers,LAG 3,2024/11/30
+cancer,biomarkers,CD4,2024/11/30
+metastatic melanoma,biomarkers,LAG 3,2024/11/30
+metastatic melanoma,biomarkers,PD 1 antibodies,2024/11/30
+cancer,biomarkers,TGF beta,2024/11/30
+cancer,biomarkers,MAPK,2024/11/30
+Breast cancer,biomarkers,ROS,2024/11/30
+cancer,biomarkers,ROS,2024/11/30
+tumor,biomarkers,MAPK,2024/11/30
+tumor,biomarkers,ECM,2024/11/30
+tumor,biomarkers,ROS,2024/11/30
+tumor,biomarkers,p38MAPK,2024/11/30
+tumor,biomarkers,TGF beta,2024/11/30
+tumor,biomarkers,collagen,2024/11/30
+cancer,biomarkers,p38MAPK,2024/11/30
+tumor,biomarkers,FGF1,2024/11/30
+tumor,biomarkers,anti PD1,2024/11/30
+cancer,biomarkers,FGF1,2024/11/30
+retinoblastoma,improper-regulation-linked-to-disease,p21,2024/11/30
+retinoblastoma,improper-regulation-linked-to-disease,p27,2024/11/30
+triple negative breast cancer,biomarkers,rs4696483,2024/11/30
+triple negative breast cancer,biomarkers,rs1898830,2024/11/30
+cancer,biomarkers,rs4696483,2024/11/30
+cancer,biomarkers,TLR 2 rs1898830,2024/11/30
+TNBC,biomarkers,rs4696483,2024/11/30
+TNBC,biomarkers,MAF,2024/11/30
+TNBC,biomarkers,2 locus TLR 2 haplotype,2024/11/30
+metastasis,biomarkers,rs1898830,2024/11/30
+TNBC,biomarkers,Ki 67,2024/11/30
+TNBC,biomarkers,rs1898830,2024/11/30
+TNBC,biomarkers,TLR 2 genetic polymorphisms,2024/11/30
+cancer,biomarkers,FAM72D,2024/11/30
+LUAD,biomarkers,LUAD,2024/11/30
+LUAD,biomarkers,FAM72D,2024/11/30
+acute myeloid leukemia,biomarkers,Integrin alpha9,2024/11/30
+Runx deficient,biomarkers,Itga9,2024/11/30
+AML,biomarkers,Itga9,2024/11/30
+AML,biomarkers,Myc,2024/11/30
+leukemia,biomarkers,ITGA9,2024/11/30
+AML,biomarkers,ITGA9,2024/11/30
+cancer,biomarkers,AMPK,2024/11/30
+cancer,biomarkers,HKDC1,2024/11/30
+cancer,biomarkers,AKT,2024/11/30
+cancer,biomarkers,HNF1a,2024/11/30
+CRC,biomarkers,HKDC1,2024/11/30
+CRC,biomarkers,HNF1a,2024/11/30
+metastasis,biomarkers,AMPK,2024/11/30
+metastasis,biomarkers,HKDC1,2024/11/30
+metastasis,biomarkers,HNF1a,2024/11/30
+metastasis,biomarkers,AKT,2024/11/30

@@ -1,0 +1,157 @@
+index	sentence	label	label2
+0	Targeting @gene$ through PROTAC for the treatment of @disease$.	triple negative breast cancer	PRMT5
+1	PRMT5  a @gene$  is upregulated in numerous @disease$s  including TNBC  and plays a critical role  marked it as an attractive therapeutic target.	cancer	type II protein arginine methyltransferase
+2	@gene$  a @gene$  is upregulated in numerous @disease$s  including TNBC  and plays a critical role  marked it as an attractive therapeutic target.	cancer	PRMT5
+3	RESULTS: Through the design  synthesis and screening of a series of targeted compounds  we identified YZ 836P as an effective compound that exerted cytotoxic effects and reduced the protein levels of PRMT5 and its key downstream target protein @gene$ in @disease$ after 48 h. Its efficacy was significantly superior to the PRMT5 PROTAC degraders that had been reported.	TNBC	KLF5
+4	RESULTS: Through the design  synthesis and screening of a series of targeted compounds  we identified YZ 836P as an effective compound that exerted cytotoxic effects and reduced the protein levels of @gene$ and its key downstream target protein @gene$ in @disease$ after 48 h. Its efficacy was significantly superior to the PRMT5 PROTAC degraders that had been reported.	TNBC	PRMT5
+5	OBJECTIVES: To investigate the correlation of total antioxidant capacity  T AOC   @gene$  GSH PX   and advanced oxidized protein product  AOPP  levels in the progression of oral mucositis  OM  during nasopharyngeal carcinoma  @disease$  radiotherapy.	NPC	glutathione peroxidase
+6	OBJECTIVES: To investigate the correlation of total antioxidant capacity  T AOC   @gene$  @gene$   and advanced oxidized protein product  AOPP  levels in the progression of oral mucositis  OM  during nasopharyngeal carcinoma  @disease$  radiotherapy.	NPC	GSH PX
+7	RESULTS: At T1 and T2 of IMRT  T AOC and @gene$ were higher in the @disease$ group than in the Non SOM group  At T3  T AOC and GSH PX were lower in the SOM group than in the Non SOM group.	SOM	GSH PX
+8	RESULTS: At T1 and T2 of IMRT  T AOC and @gene$ were higher in the @disease$ group than in the @disease$ group  At T3  T AOC and @gene$ were lower in the SOM group than in the Non SOM group.	Non SOM	GSH PX
+9	T AOC and @gene$ had similar change trends in Non @disease$ or SOM patients  i.e.  T AOC levels continued to increase at T2 and decreased at T3  and GSH PX increased significantly at T2 and decreased at T3.	SOM	GSH PX
+10	Of interest was the fact that T AOC and @gene$ decreased significantly more in @disease$ patients than in Non SOM patients at T3  and that AOPP levels were in a constant state of increase in SOM patients.	SOM	GSH PX
+11	CONCLUSIONS: @disease$ patients undergoing IMRT exhibit dynamic alterations in blood T AOC  @gene$  and AOPP.	NPC	GSH PX
+12	The tumor microenvironment  TME  is a complex ecosystem comprising @disease$ cells  non cancer cells  @gene$  metabolites and cytokines.	cancer	extracellular matrix
+13	The tumor microenvironment  @gene$  is a complex ecosystem comprising @disease$ cells  non @disease$ cells  @gene$  metabolites and cytokines.	cancer	TME
+14	Recent studies have underscored a new paradigm in which non @disease$ cells in the @gene$  such as immune and stromal cells  also play significant roles in regulating tumor progression and therapeutic resistance typically through complicated crosstalk with cancer cells.	cancer	TME
+15	Notably  this crosstalk in the @disease$ were partially mediated through ferrotopsis related mechanisms.	TME	TME
+16	This review provides a comprehensive and systematic summary of the current findings concerning the roles of ferroptosis in the @gene$ and how ferroptosis mediated TME reprogramming impacts @disease$ therapeutic resistance and progression.	cancer	TME
+17	This review provides a comprehensive and systematic summary of the current findings concerning the roles of ferroptosis in the @gene$ and how ferroptosis mediated @disease$ reprogramming impacts @disease$ therapeutic resistance and progression.	TME	TME
+18	Additionally  this review outlines various ferroptosis related therapeutic strategies aimed at targeting the @disease$.	TME	TME
+19	In the realm of @disease$ research  the tumor microenvironment  @gene$  plays a crucial role in tumor initiation and progression  shaped by complex interactions between cancer cells and surrounding non cancerous cells.	cancer	TME
+20	Cytokines  as essential immunomodulatory agents  are secreted by various cellular constituents within the @gene$  including immune cells  @disease$ associated fibroblasts  and cancer cells themselves.	cancer	TME
+21	Pyroptosis contributes to @disease$ remodeling by promoting the release of pro inflammatory cytokines and sustaining chronic inflammation  impacting processes such as immune escape and angiogenesis.	TME	TME
+22	However  challenges remain due to the complex interplay among cytokines  pyroptosis  and the @gene$  along with the dual effects of pyroptosis on cancer progression and therapy related complications like @disease$.	cytokine release syndrome	TME
+23	This review delves into the complex crosstalk between cytokines  pyroptosis  and the @gene$  elucidating their contribution to tumor progression and @disease$.	metastasis	TME
+24	By synthesizing emerging therapeutic targets and innovative technologies concerning @gene$  this review aims to provide novel insights that could enhance treatment outcomes for @disease$ patients.	cancer	TME
+25	Enhancing radiotherapy in @disease$ with hesperetin induced ferroptosis via @gene$ targeting nanocomposites.	triple negative breast cancer	AURKA
+26	Enhancing radiotherapy in @disease$ with @gene$ induced ferroptosis via @gene$ targeting nanocomposites.	triple negative breast cancer	hesperetin
+27	The objective of this study was to explore the potential targets of hesperetin in TNBC and investigate whether the nanocomposites carrier hesperetin loaded ferroptosis inducing nanocomposites  @gene$   which activates ferroptosis  can enhance the anti @disease$ efficacy of hesperetin.	tumor	HFPN
+28	The objective of this study was to explore the potential targets of @gene$ in TNBC and investigate whether the nanocomposites carrier hesperetin loaded ferroptosis inducing nanocomposites  @gene$   which activates ferroptosis  can enhance the anti @disease$ efficacy of hesperetin.	tumor	hesperetin
+29	The objective of this study was to explore the potential targets of @gene$ in @disease$ and investigate whether the nanocomposites carrier @gene$ loaded ferroptosis inducing nanocomposites  @gene$   which activates ferroptosis  can enhance the anti @disease$ efficacy of hesperetin.	TNBC	hesperetin
+30	Bioinformatics methods were employed to screen hesperetin targets in @disease$  and a molecular docking model between hesperetin and the core target @gene$  AURKA  was successfully constructed.	TNBC	aurora kinase A
+31	Bioinformatics methods were employed to screen hesperetin targets in @disease$  and a molecular docking model between hesperetin and the core target @gene$  @gene$  was successfully constructed.	TNBC	AURKA
+32	Bioinformatics methods were employed to screen @gene$ targets in @disease$  and a molecular docking model between hesperetin and the core target @gene$  @gene$  was successfully constructed.	TNBC	hesperetin
+33	The stability and anti @disease$ activity of @gene$ were validated in cell and mouse models  including tumor suppression and increased radiation sensitivity.	tumor	HFPN
+34	These results suggest that HFPN can regulate the core target @gene$ in TNBC  disrupt @disease$ oxidative reductive balance  promote ferroptosis in tumor cells  and ultimately enhance the effectiveness of radiation therapy for TNBC.	tumor	AURKA
+35	These results suggest that @gene$ can regulate the core target @gene$ in TNBC  disrupt @disease$ oxidative reductive balance  promote ferroptosis in @disease$ cells  and ultimately enhance the effectiveness of radiation therapy for TNBC.	tumor	HFPN
+36	The dysadherin @gene$ axis modifies the extracellular matrix to accelerate colorectal @disease$ progression.	cancer	MMP9
+37	The @gene$ @gene$ axis modifies the extracellular matrix to accelerate colorectal @disease$ progression.	cancer	dysadherin
+38	The @gene$ @gene$ axis modifies the @gene$ to accelerate colorectal @disease$ progression.	cancer	extracellular matrix
+39	The dynamic alteration of the tumor microenvironment  @gene$  serves as a driving force behind the progression and @disease$ of colorectal cancer  CRC .	metastasis	TME
+40	Within the intricate TME  a pivotal player is the extracellular matrix  @gene$   where modifications in components  degradation  and stiffness are considered critical factors in @disease$ development.	tumor	ECM
+41	Within the intricate TME  a pivotal player is the @gene$  @gene$   where modifications in components  degradation  and stiffness are considered critical factors in @disease$ development.	tumor	extracellular matrix
+42	Within the intricate @gene$  a pivotal player is the @gene$  @gene$   where modifications in components  degradation  and stiffness are considered critical factors in @disease$ development.	tumor	TME
+43	In this study  we find that the membrane glycoprotein dysadherin directly targets matrix metalloprotease 9  @gene$   initiating ECM remodeling within the TME and amplifying @disease$ progression.	cancer	MMP9
+44	In this study  we find that the membrane glycoprotein dysadherin directly targets @gene$  @gene$   initiating ECM remodeling within the TME and amplifying @disease$ progression.	cancer	matrix metalloprotease 9
+45	In this study  we find that the membrane glycoprotein dysadherin directly targets @gene$  @gene$   initiating @gene$ remodeling within the TME and amplifying @disease$ progression.	cancer	ECM
+46	In this study  we find that the membrane glycoprotein @gene$ directly targets @gene$  @gene$   initiating @gene$ remodeling within the TME and amplifying @disease$ progression.	cancer	dysadherin
+47	In this study  we find that the membrane glycoprotein @gene$ directly targets @gene$  @gene$   initiating @gene$ remodeling within the @gene$ and amplifying @disease$ progression.	cancer	TME
+48	Mechanistically  the dysadherin @gene$ axis not only enhances CRC cell invasiveness and ECM proteolytic activity but also activates @disease$ associated fibroblasts  orchestrating the restructuring of the ECM through the synthesis of its components in human CRC cells  patient samples  and mouse models.	cancer	MMP9
+49	Mechanistically  the dysadherin @gene$ axis not only enhances CRC cell invasiveness and @gene$ proteolytic activity but also activates @disease$ associated fibroblasts  orchestrating the restructuring of the ECM through the synthesis of its components in human CRC cells  patient samples  and mouse models.	cancer	ECM
+50	Mechanistically  the @gene$ @gene$ axis not only enhances CRC cell invasiveness and @gene$ proteolytic activity but also activates @disease$ associated fibroblasts  orchestrating the restructuring of the ECM through the synthesis of its components in human CRC cells  patient samples  and mouse models.	cancer	dysadherin
+51	Mechanistically  the @gene$ @gene$ axis not only enhances @disease$ cell invasiveness and @gene$ proteolytic activity but also activates @disease$ associated fibroblasts  orchestrating the restructuring of the @gene$ through the synthesis of its components in human CRC cells  patient samples  and mouse models.	CRC	ECM
+52	Intriguingly  these effects are reversed upon the overexpression of @gene$  highlighting the intricate and pivotal role of the dysadherin MMP9 axis in shaping the development of a @disease$.	malignant TME	MMP9
+53	Intriguingly  these effects are reversed upon the overexpression of @gene$  highlighting the intricate and pivotal role of the @gene$ MMP9 axis in shaping the development of a @disease$.	malignant TME	dysadherin
+54	Therefore  our findings not only highlight that dysadherin contributes to @disease$ progression by influencing the TME through @gene$ remodeling but also suggest that dysadherin may be a potential therapeutic target for CRC.	CRC	ECM
+55	Therefore  our findings not only highlight that @gene$ contributes to @disease$ progression by influencing the TME through @gene$ remodeling but also suggest that dysadherin may be a potential therapeutic target for @disease$.	CRC	dysadherin
+56	Therefore  our findings not only highlight that @gene$ contributes to @disease$ progression by influencing the @gene$ through @gene$ remodeling but also suggest that dysadherin may be a potential therapeutic target for @disease$.	CRC	TME
+57	The roles of @gene$ derived from @disease$ associated fibroblasts in tumor progression and treatment response.	cancer	periostin
+58	Periostin  @gene$   a matricellular protein predominantly secreted by @disease$ associated fibroblasts  CAFs   has emerged as a key regulator of cancer progression and therapy response.	cancer	POSTN
+59	@gene$  @gene$   a matricellular protein predominantly secreted by @disease$ associated fibroblasts  CAFs   has emerged as a key regulator of @disease$ progression and therapy response.	cancer	Periostin
+60	This review provides an overview of recent findings regarding the diverse roles of @gene$ in @disease$ therapy and its potential as a therapeutic target.	cancer	periostin
+61	Studies have elucidated @gene$'s involvement in tumorigenesis  including tumor growth  @disease$  chemotherapy resistance  and modulation of the tumor microenvironment  TME .	metastasis	periostin
+62	Studies have elucidated @gene$'s involvement in tumorigenesis  including tumor growth  @disease$  chemotherapy resistance  and modulation of the tumor microenvironment  @gene$ .	metastasis	TME
+63	CAFs @gene$   play a central role in shaping the TME by remodeling the extracellular matrix  ECM  and promoting immune evasion  thus promoting @disease$ cell survival and dissemination.	tumor	periostin
+64	CAFs @gene$   play a central role in shaping the TME by remodeling the extracellular matrix  @gene$  and promoting immune evasion  thus promoting @disease$ cell survival and dissemination.	tumor	ECM
+65	CAFs @gene$   play a central role in shaping the TME by remodeling the @gene$  @gene$  and promoting immune evasion  thus promoting @disease$ cell survival and dissemination.	tumor	extracellular matrix
+66	CAFs @gene$   play a central role in shaping the @gene$ by remodeling the @gene$  @gene$  and promoting immune evasion  thus promoting @disease$ cell survival and dissemination.	tumor	TME
+67	Elevated @gene$ expression has been correlated with poor prognosis across multiple @disease$ types  suggesting its utility as a prognostic biomarker.	cancer	periostin
+68	Periostin has been implicated in mediating resistance to chemotherapy  with CAFs @gene$   establishing a pro tumorigenic niche that confers protection to @disease$ cells against cytotoxic therapies.	cancer	periostin
+69	@gene$ has been implicated in mediating resistance to chemotherapy  with CAFs @gene$   establishing a pro tumorigenic niche that confers protection to @disease$ cells against cytotoxic therapies.	cancer	Periostin
+70	While significant progress has been made in understanding the biological functions of @gene$ in @disease$  gaps persist in elucidating its precise mechanisms of action and clinical relevance.	cancer	periostin
+71	Future research should focus on deciphering the signaling pathways and molecular interactions underlying @gene$ mediated effects in the @disease$.	TME	periostin
+72	Prospective clinical studies are warranted to evaluate @gene$ as a predictive biomarker and therapeutic target in @disease$ patients.	cancer	periostin
+73	Lack of @gene$ leads to impaired immune response and poor @disease$ prognosis.	cancer	WDFY4
+74	@gene$ is closely related to asthma and systemic lupus erythematosus  however  its role in @disease$ remains unclear.	cancer	WDFY4
+75	The purpose of this study is to use bioinformatics to determine whether abnormal expression of @gene$ is a risk factor for @disease$ and to preliminarily analyze the ways in which WDFY4 affects cancer through experiments.	cancer	WDFY4
+76	R language packages and bioinformatic database were used to mine the potential carcinogenic effect of @gene$ and analyze the differential WDFY4 expression in @disease$  gene mutations  different tumor prognoses  immune cell infiltration  tumor microenvironment  and DNA methylation correlation.	cancer	WDFY4
+77	R language packages and bioinformatic database were used to mine the potential carcinogenic effect of @gene$ and analyze the differential @gene$ expression in @disease$  gene mutations  different @disease$ prognoses  immune cell infiltration  tumor microenvironment  and DNA methylation correlation.	tumor	WDFY4
+78	H1975 and A549 cell lines were infected with lentiviruses to overexpress @gene$  and the effect of WDFY4 on the activity  proliferation  apoptosis  and cell cycle of lung @disease$ cells was analyzed.	cancer	WDFY4
+79	@gene$ was differentially expressed in human @disease$ in unpaired and paired samples.	tumors	WDFY4
+80	The differential expression of @gene$ in unpaired and paired or protein samples from the Clinical Proteome Tumor Analysis Consortium of eight @disease$s was consistent.	cancer	WDFY4
+81	@gene$ methylation was downregulated in 17 @disease$ types and caused prognostic differences in different directions in some cancers.	cancer	WDFY4
+82	@gene$ overexpression significantly inhibited the activity and proliferation of lung @disease$ cell lines  promoted apoptosis  and caused cell cycle arrest.	cancer	WDFY4
+83	Differential @gene$ expression in @disease$s leads to differences in the prognosis of various cancers.	cancer	WDFY4
+84	@gene$ can be an independent prognostic factor for @disease$  KIRC  and LUSC.	glioma	WDFY4
+85	@gene$ An incompletely understood target in @disease$ therapy.	cancer	LAG 3
+86	Furthermore  unlike CD4 @gene$ restrains T cell responses and antibodies targeting this receptor are emerging drugs in @disease$ immunotherapy.	cancer	LAG 3
+87	Furthermore  unlike @gene$ @gene$ restrains T cell responses and antibodies targeting this receptor are emerging drugs in @disease$ immunotherapy.	cancer	CD4
+88	A combination of @gene$ and PD 1 antibodies has already been approved for the treatment of @disease$.	metastatic melanoma	LAG 3
+89	A combination of @gene$ and @gene$ has already been approved for the treatment of @disease$.	metastatic melanoma	PD 1 antibodies
+90	Oxidative stress drives endometrial fibrosis via @gene$1 MAPK signaling pathway in breast @disease$.	cancer	TGF beta
+91	Oxidative stress drives endometrial fibrosis via @gene$1 @gene$ signaling pathway in breast @disease$.	cancer	MAPK
+92	@disease$ patients have high serum reactive oxygen species  @gene$  levels  which exert toxicity on the ovary.	Breast cancer	ROS
+93	However  it is still unclear whether tumor derived @gene$ play a role in endometrial development and function in breast @disease$.	cancer	ROS
+94	A gene signature of uteri in @disease$ bearing mice demonstrated differential expression of genes  DEGs  regulating extracellular matrix  ECM  and epithelial mesenchymal transition  EMT   and activation of @gene$ and MAPK signaling pathways.	tumor	TGF beta
+95	A gene signature of uteri in @disease$ bearing mice demonstrated differential expression of genes  DEGs  regulating extracellular matrix  @gene$  and epithelial mesenchymal transition  EMT   and activation of @gene$ and MAPK signaling pathways.	tumor	ECM
+96	A gene signature of uteri in @disease$ bearing mice demonstrated differential expression of genes  DEGs  regulating @gene$  @gene$  and epithelial mesenchymal transition  EMT   and activation of @gene$ and MAPK signaling pathways.	tumor	extracellular matrix
+97	A gene signature of uteri in @disease$ bearing mice demonstrated differential expression of genes  DEGs  regulating @gene$  @gene$  and epithelial mesenchymal transition  EMT   and activation of @gene$ and @gene$ signaling pathways.	tumor	MAPK
+98	In addition  ROS  EMT  and @gene$ related protein levels were enhanced in uteri in @disease$ bearing mice  as well as in Ishikawa cells which were co cultured with MDA MB 231 cells compared to controls.	tumor	ECM
+99	In addition  @gene$  EMT  and @gene$ related protein levels were enhanced in uteri in @disease$ bearing mice  as well as in Ishikawa cells which were co cultured with MDA MB 231 cells compared to controls.	tumor	ROS
+100	Supplementation with VC reduced endometrial damage  inhibited the EMT process and collagen deposition  and maintained better histologic architecture of uteri in @disease$ bearing mice via inactivation of the TGF beta1 @gene$ pathway.	tumor	p38MAPK
+101	Supplementation with VC reduced endometrial damage  inhibited the EMT process and collagen deposition  and maintained better histologic architecture of uteri in @disease$ bearing mice via inactivation of the @gene$1 @gene$ pathway.	tumor	TGF beta
+102	Supplementation with VC reduced endometrial damage  inhibited the EMT process and @gene$ deposition  and maintained better histologic architecture of uteri in @disease$ bearing mice via inactivation of the @gene$1 @gene$ pathway.	tumor	collagen
+103	VC could alleviate endometrial fibrosis via TGF beta1 @gene$ pathway and provide new predictive and therapeutic targets for fertility preservation in younger breast @disease$ patients.	cancer	p38MAPK
+104	VC could alleviate endometrial fibrosis via @gene$1 @gene$ pathway and provide new predictive and therapeutic targets for fertility preservation in younger breast @disease$ patients.	cancer	TGF beta
+105	In vivo study based on the 615 mice indicated that inhibiting @gene$ function could suppress @disease$ growth and enhance anti PD1 therapeutic efficacy.	tumor	FGF1
+106	In vivo study based on the 615 mice indicated that inhibiting @gene$ function could suppress @disease$ growth and enhance @gene$ therapeutic efficacy.	tumor	anti PD1
+107	In summary  we established a five angiogenesis related gene model to predict survival outcomes and immunotherapy responses in patients with gastric @disease$ and identified @gene$ as a prognostic gene and potential target for improving immune treatment.	cancer	FGF1
+108	In contrast  oncogenic miRNAs  oncomirs  help the cell cycle to progress by targeting various regulatory proteins such as @disease$  Rb  or cell cycle inhibitors such as @gene$ or p27  and hence may contribute to prostate cancer progression  however  this is not always the case.	retinoblastoma	p21
+109	In contrast  oncogenic miRNAs  oncomirs  help the cell cycle to progress by targeting various regulatory proteins such as @disease$  Rb  or cell cycle inhibitors such as @gene$ or @gene$  and hence may contribute to prostate cancer progression  however  this is not always the case.	retinoblastoma	p27
+110	Association between Toll like receptor 2 @gene$ and rs1898830 polymorphisms and the risk of @disease$.	triple negative breast cancer	rs4696483
+111	Association between Toll like receptor 2 @gene$ and @gene$ polymorphisms and the risk of @disease$.	triple negative breast cancer	rs1898830
+112	METHODS: Genotyping of TLR 2 rs1898830 and @gene$ polymorphisms was done by real time PCR in 488 women with BC  130 TNBC  358 non TNBC  and 476 @disease$ free control women.	cancer	rs4696483
+113	METHODS: Genotyping of @gene$ and @gene$ polymorphisms was done by real time PCR in 488 women with BC  130 TNBC  358 non TNBC  and 476 @disease$ free control women.	cancer	TLR 2 rs1898830
+114	Significantly higher MAF of @gene$ and higher C T and T T rs4696483 genotypes frequencies were seen in @disease$ than in non TNBC cases.	TNBC	rs4696483
+115	Significantly higher @gene$ of @gene$ and higher C T and T T rs4696483 genotypes frequencies were seen in @disease$ than in non @disease$ cases.	TNBC	MAF
+116	Considering the prevalent AC haplotype as a reference  @gene$ analysis did not identify any 2 locus TLR 2 haplotype associated with an altered risk of BC or @disease$.	TNBC	2 locus TLR 2 haplotype
+117	Positive associations of @gene$ and rs4966483 were seen with the histological type in TNBC and negatively with distant @disease$ and HR status in TNBC and non TNBC rs1898830 carriers.	metastasis	rs1898830
+118	Positive associations of @gene$ and rs4966483 were seen with the histological type in @disease$ and negatively with distant @disease$ and HR status in TNBC and non TNBC @gene$ carriers.	TNBC	rs1898830
+119	In addition  @gene$ was positively correlated with hormonotherapy and surgery in non @disease$ cases  while rs1898830 was negatively associated with hormonotherapy.	TNBC	rs4696483
+120	In addition  @gene$ was positively correlated with hormonotherapy and surgery in non @disease$ cases  while @gene$ was negatively associated with hormonotherapy.	TNBC	rs1898830
+121	Furthermore  rs1898830 was negatively and positively correlated with BMI in @disease$ and TNBC cases  respectively  but positively with @gene$ status.	TNBC	Ki 67
+122	Furthermore  @gene$ was negatively and positively correlated with BMI in @disease$ and @disease$ cases  respectively  but positively with @gene$ status.	TNBC	rs1898830
+123	CONCLUSIONS: Our study highlights the association between @gene$ and BC and @disease$ susceptibility  suggesting these variants' diagnostic prognostic capacity in BC patients and patient subgroups.	TNBC	TLR 2 genetic polymorphisms
+124	Pan @disease$ analysis and experimental validation reveal @gene$ as a potential novel biomarker and therapeutic target in lung adenocarcinoma.	cancer	FAM72D
+125	BACKGROUND: Cancers  particularly lung adenocarcinoma  @disease$   represent a major global health concern.	LUAD	LUAD
+126	However  the role of @gene$ in various cancers  including @disease$  remains poorly understood.	LUAD	FAM72D
+127	METHODS: We utilized databases such as The Cancer Genome Atlas  TCGA   Genotype Tissue Expression Project  GTEx  and online tools to investigate the correlation between @gene$ expression and its prognostic  diagnostic  and mutational significance  as well as its impact on immune cell infiltration across multiple @disease$s.	cancer	FAM72D
+128	Additionally  we developed @disease$ cell lines overexpressing @gene$ to confirm its oncogenic role.	LUAD	FAM72D
+129	RESULTS: @gene$ expression was elevated in cancerous tissues compared to noncancerous tissues  with diagnostic and prognostic implications in many cancers  including @disease$.	LUAD	FAM72D
+130	Moreover  associations were identified between @gene$ expression and diverse immune subtypes  alongside factors such as microsatellite instability  neoantigens  and tumour mutational burden across pan @disease$s.	cancer	FAM72D
+131	Additionally  @gene$ was associated with immune infiltration and various immune checkpoint related genes in @disease$.	LUAD	FAM72D
+132	In vitro experiments demonstrated that @gene$ promoted cell proliferation  colony formation  and migration  while inhibiting apoptosis in @disease$ cells.	LUAD	FAM72D
+133	CONCLUSIONS: Our study establishes associations between @gene$ expression and diagnosis  prognosis  and tumour immunity across multiple cancers  as well as its oncogenic effects in @disease$.	LUAD	FAM72D
+134	@gene$ shows promise as a biomarker and therapeutic target in @disease$.	LUAD	FAM72D
+135	@gene$ overexpression underlies the niche independent maintenance of leukemia stem cells in @disease$.	acute myeloid leukemia	Integrin alpha9
+136	Retroviral insertional mutagenesis conducted on leukemia prone @disease$ mice identified @gene$ OE as a novel leukemogenic event.	Runx deficient	Itga9
+137	The @gene$ Myc axis  originally discovered in mice  was further confirmed in multiple human acute myeloid leukemia  @disease$  subtypes  other than RUNX leukemias.	AML	Itga9
+138	The @gene$ @gene$ axis  originally discovered in mice  was further confirmed in multiple human acute myeloid leukemia  @disease$  subtypes  other than RUNX leukemias.	AML	Myc
+139	These findings suggest that the @gene$ OE increases both actively proliferating @disease$ cells and dormant LSCs in a well balanced manner  thereby maintaining LSCs.	leukemia	ITGA9
+140	The @gene$ OE would serve as a novel therapeutic target in @disease$.	AML	ITGA9
+141	HNF1a promotes colorectal @disease$ progression via HKDC1 mediated activation of AKT @gene$ signaling pathway.	cancer	AMPK
+142	HNF1a promotes colorectal @disease$ progression via @gene$ mediated activation of AKT @gene$ signaling pathway.	cancer	HKDC1
+143	@gene$ promotes colorectal @disease$ progression via @gene$ mediated activation of AKT @gene$ signaling pathway.	cancer	HNF1a
+144	@gene$ promotes colorectal @disease$ progression via @gene$ mediated activation of @gene$ @gene$ signaling pathway.	cancer	AKT
+145	The hepatocyte nuclear factor 1  @gene$  is a transcription factor that contributes to several kinds of @disease$ progression.	cancer	HNF1a
+146	We aimed to explore the role of @gene$ in the progress of colorectal @disease$  CRC  and elucidate its molecular mechanism.	cancer	HNF1a
+147	@gene$ expression was upregulated in @disease$ samples and high expression of HNF1a was associated with poor prognosis of CRC patients.	CRC	HNF1a
+148	@gene$lpha knockdown and overexpression inhibited and promoted proliferation  migration and invasion of @disease$ cells both in vitro and in vivo respectively.	CRC	HNF1a
+149	Meanwhile  @gene$ upregulation was important for the proliferation  migration and invasion of @disease$ cells and knockdown of HKDC1 significantly reversed the proliferation  migration and invasion induced by HNF1alpha overexpression.	CRC	HKDC1
+150	Meanwhile  @gene$ upregulation was important for the proliferation  migration and invasion of @disease$ cells and knockdown of HKDC1 significantly reversed the proliferation  migration and invasion induced by @gene$lpha overexpression.	CRC	HNF1a
+151	Taken together  HNF1a contributes to CRC progression and @disease$ through binding to HKDC1 and activating AKT @gene$ signaling.	metastasis	AMPK
+152	Taken together  HNF1a contributes to CRC progression and @disease$ through binding to @gene$ and activating AKT @gene$ signaling.	metastasis	HKDC1
+153	Taken together  @gene$ contributes to CRC progression and @disease$ through binding to @gene$ and activating AKT @gene$ signaling.	metastasis	HNF1a
+154	Taken together  @gene$ contributes to CRC progression and @disease$ through binding to @gene$ and activating @gene$ @gene$ signaling.	metastasis	AKT
+155	Targeting @gene$ could be a potential therapeutic strategy for @disease$ patients.	CRC	HNF1a

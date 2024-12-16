@@ -1,0 +1,97 @@
+index	sentence	label	label2
+11	@gene$  a @gene$  is upregulated in numerous cancers  including TNBC  and plays a critical role  marked it as an attractive therapeutic target.	type II protein arginine methyltransferase	PRMT5
+41	RESULTS: Through the design  synthesis and screening of a series of targeted compounds  we identified YZ 836P as an effective compound that exerted cytotoxic effects and reduced the protein levels of @gene$ and its key downstream target protein @gene$ in TNBC after 48 h. Its efficacy was significantly superior to the PRMT5 PROTAC degraders that had been reported.	KLF5	PRMT5
+18	Additionally  we demonstrated that YZ 836P promoted the ubiquitination and degradation of @gene$ in a cereblon  @gene$  dependent manner.	CRBN	PRMT5
+24	OBJECTIVES: To investigate the correlation of total antioxidant capacity  T AOC   @gene$  @gene$   and advanced oxidized protein product  AOPP  levels in the progression of oral mucositis  OM  during nasopharyngeal carcinoma  NPC  radiotherapy.	glutathione peroxidase	GSH PX
+43	The tumor microenvironment  @gene$  is a complex ecosystem comprising cancer cells  non cancer cells  @gene$  metabolites and cytokines.	extracellular matrix	TME
+47	Enhancing radiotherapy in triple negative breast cancer with @gene$ induced ferroptosis via @gene$ targeting nanocomposites.	AURKA	hesperetin
+63	The objective of this study was to explore the potential targets of @gene$ in TNBC and investigate whether the nanocomposites carrier hesperetin loaded ferroptosis inducing nanocomposites  @gene$   which activates ferroptosis  can enhance the anti tumor efficacy of hesperetin.	HFPN	hesperetin
+7	Bioinformatics methods were employed to screen hesperetin targets in TNBC  and a molecular docking model between hesperetin and the core target @gene$  @gene$  was successfully constructed.	aurora kinase A	AURKA
+8	Bioinformatics methods were employed to screen @gene$ targets in TNBC  and a molecular docking model between hesperetin and the core target @gene$  @gene$  was successfully constructed.	aurora kinase A	hesperetin
+47	These results suggest that @gene$ can regulate the core target @gene$ in TNBC  disrupt tumor oxidative reductive balance  promote ferroptosis in tumor cells  and ultimately enhance the effectiveness of radiation therapy for TNBC.	AURKA	HFPN
+2	The @gene$ @gene$ axis modifies the extracellular matrix to accelerate colorectal cancer progression.	MMP9	dysadherin
+3	The @gene$ @gene$ axis modifies the @gene$ to accelerate colorectal cancer progression.	MMP9	extracellular matrix
+28	Within the intricate TME  a pivotal player is the @gene$  @gene$   where modifications in components  degradation  and stiffness are considered critical factors in tumor development.	ECM	extracellular matrix
+29	Within the intricate @gene$  a pivotal player is the @gene$  @gene$   where modifications in components  degradation  and stiffness are considered critical factors in tumor development.	ECM	TME
+2	In this study  we find that the membrane glycoprotein dysadherin directly targets @gene$  @gene$   initiating ECM remodeling within the TME and amplifying cancer progression.	MMP9	matrix metalloprotease 9
+3	In this study  we find that the membrane glycoprotein dysadherin directly targets @gene$  @gene$   initiating @gene$ remodeling within the TME and amplifying cancer progression.	MMP9	ECM
+4	In this study  we find that the membrane glycoprotein @gene$ directly targets @gene$  @gene$   initiating @gene$ remodeling within the TME and amplifying cancer progression.	MMP9	dysadherin
+5	In this study  we find that the membrane glycoprotein @gene$ directly targets @gene$  @gene$   initiating @gene$ remodeling within the @gene$ and amplifying cancer progression.	MMP9	TME
+2	Mechanistically  the dysadherin @gene$ axis not only enhances CRC cell invasiveness and @gene$ proteolytic activity but also activates cancer associated fibroblasts  orchestrating the restructuring of the ECM through the synthesis of its components in human CRC cells  patient samples  and mouse models.	MMP9	ECM
+3	Mechanistically  the @gene$ @gene$ axis not only enhances CRC cell invasiveness and @gene$ proteolytic activity but also activates cancer associated fibroblasts  orchestrating the restructuring of the ECM through the synthesis of its components in human CRC cells  patient samples  and mouse models.	MMP9	dysadherin
+28	Notably  disruption of @gene$ reorganization by @gene$ knockout results in a discernible reduction in the immunosuppressive and proangiogenic milieu in a humanized mouse model.	ECM	dysadherin
+2	Intriguingly  these effects are reversed upon the overexpression of @gene$  highlighting the intricate and pivotal role of the @gene$ MMP9 axis in shaping the development of a malignant TME.	MMP9	dysadherin
+3	Intriguingly  these effects are reversed upon the overexpression of @gene$  highlighting the intricate and pivotal role of the @gene$ @gene$ axis in shaping the development of a malignant @gene$.	MMP9	TME
+28	Therefore  our findings not only highlight that @gene$ contributes to CRC progression by influencing the TME through @gene$ remodeling but also suggest that dysadherin may be a potential therapeutic target for CRC.	ECM	dysadherin
+29	Therefore  our findings not only highlight that @gene$ contributes to CRC progression by influencing the @gene$ through @gene$ remodeling but also suggest that dysadherin may be a potential therapeutic target for CRC.	ECM	TME
+17	@gene$  @gene$   a matricellular protein predominantly secreted by cancer associated fibroblasts  CAFs   has emerged as a key regulator of cancer progression and therapy response.	POSTN	Periostin
+6	Studies have elucidated @gene$'s involvement in tumorigenesis  including tumor growth  metastasis  chemotherapy resistance  and modulation of the tumor microenvironment  @gene$ .	periostin	TME
+6	CAFs @gene$   play a central role in shaping the TME by remodeling the extracellular matrix  @gene$  and promoting immune evasion  thus promoting tumor cell survival and dissemination.	periostin	ECM
+7	CAFs @gene$   play a central role in shaping the TME by remodeling the @gene$  @gene$  and promoting immune evasion  thus promoting tumor cell survival and dissemination.	periostin	extracellular matrix
+8	CAFs @gene$   play a central role in shaping the @gene$ by remodeling the @gene$  @gene$  and promoting immune evasion  thus promoting tumor cell survival and dissemination.	periostin	TME
+6	@gene$ has been implicated in mediating resistance to chemotherapy  with CAFs @gene$   establishing a pro tumorigenic niche that confers protection to cancer cells against cytotoxic therapies.	periostin	Periostin
+6	Future research should focus on deciphering the signaling pathways and molecular interactions underlying @gene$ mediated effects in the @gene$.	periostin	TME
+15	@gene$ is a member of the @gene$ expressed on activated T cells  but also on other immune cells.	LAG 3	immunoglobulin superfamily
+15	Both molecules have four extracellular Ig like domains with similar structural motifs but the sequence identity between @gene$ and @gene$ is low.	LAG 3	CD4
+16	Both molecules have four extracellular @gene$ with similar structural motifs but the sequence identity between @gene$ and @gene$ is low.	LAG 3	Ig like domains
+15	Furthermore  unlike @gene$ @gene$ restrains T cell responses and antibodies targeting this receptor are emerging drugs in cancer immunotherapy.	LAG 3	CD4
+15	A combination of @gene$ and @gene$ has already been approved for the treatment of metastatic melanoma.	LAG 3	PD 1 antibodies
+14	Oxidative stress drives endometrial fibrosis via @gene$1 MAPK signaling pathway in breast cancer.	TGF beta	TGF beta1
+15	Oxidative stress drives endometrial fibrosis via @gene$1 @gene$ signaling pathway in breast cancer.	TGF beta	MAPK
+14	A gene signature of uteri in tumor bearing mice demonstrated differential expression of genes  DEGs  regulating extracellular matrix  @gene$  and epithelial mesenchymal transition  EMT   and activation of @gene$ and MAPK signaling pathways.	TGF beta	ECM
+15	A gene signature of uteri in tumor bearing mice demonstrated differential expression of genes  DEGs  regulating @gene$  @gene$  and epithelial mesenchymal transition  EMT   and activation of @gene$ and MAPK signaling pathways.	TGF beta	extracellular matrix
+16	A gene signature of uteri in tumor bearing mice demonstrated differential expression of genes  DEGs  regulating @gene$  @gene$  and epithelial mesenchymal transition  EMT   and activation of @gene$ and @gene$ signaling pathways.	TGF beta	MAPK
+28	In addition  @gene$  EMT  and @gene$ related protein levels were enhanced in uteri in tumor bearing mice  as well as in Ishikawa cells which were co cultured with MDA MB 231 cells compared to controls.	ECM	ROS
+1	Supplementation with VC reduced endometrial damage  inhibited the EMT process and collagen deposition  and maintained better histologic architecture of uteri in tumor bearing mice via inactivation of the @gene$1 @gene$ pathway.	p38MAPK	TGF beta
+2	Supplementation with VC reduced endometrial damage  inhibited the EMT process and @gene$ deposition  and maintained better histologic architecture of uteri in tumor bearing mice via inactivation of the @gene$1 @gene$ pathway.	p38MAPK	collagen
+1	VC could alleviate endometrial fibrosis via @gene$1 @gene$ pathway and provide new predictive and therapeutic targets for fertility preservation in younger breast cancer patients.	p38MAPK	TGF beta
+3	Using public database  a angiogenetic related five gene  @gene$  GRB14  PAK3  @gene$  and PRKD1  model was identified.	FGF1	PDGFRA
+4	Using public database  a angiogenetic related five gene  @gene$  GRB14  @gene$  @gene$  and PRKD1  model was identified.	FGF1	PAK3
+5	Using public database  a angiogenetic related five gene  @gene$  GRB14  @gene$  @gene$  and @gene$  model was identified.	FGF1	PRKD1
+6	Using public database  a angiogenetic related five gene  @gene$  @gene$  @gene$  @gene$  and @gene$  model was identified.	FGF1	GRB14
+3	The TIMER database showed strong positive correlations between PAK3  @gene$  PRKD1  and PDGFRA expression levels and the infiltration of @gene$    T cells and macrophages.	FGF1	CD4
+4	The TIMER database showed strong positive correlations between PAK3  @gene$  PRKD1  and @gene$ expression levels and the infiltration of @gene$    T cells and macrophages.	FGF1	PDGFRA
+5	The TIMER database showed strong positive correlations between @gene$  @gene$  PRKD1  and @gene$ expression levels and the infiltration of @gene$    T cells and macrophages.	FGF1	PAK3
+6	The TIMER database showed strong positive correlations between @gene$  @gene$  @gene$  and @gene$ expression levels and the infiltration of @gene$    T cells and macrophages.	FGF1	PRKD1
+3	TMA showed that @gene$ overexpression was associated with poor prognosis and @gene$    T cells and macrophage infiltration.	FGF1	CD4
+3	In vivo study based on the 615 mice indicated that inhibiting @gene$ function could suppress tumor growth and enhance @gene$ therapeutic efficacy.	FGF1	anti PD1
+55	In contrast  oncogenic miRNAs  oncomirs  help the cell cycle to progress by targeting various regulatory proteins such as retinoblastoma  Rb  or cell cycle inhibitors such as @gene$ or @gene$  and hence may contribute to prostate cancer progression  however  this is not always the case.	p21	p27
+4	Association between Toll like receptor 2 @gene$ and rs1898830 polymorphisms and the risk of triple negative breast cancer.	rs4696483	Toll like receptor 2 rs4696483
+5	Association between Toll like receptor 2 @gene$ and @gene$ polymorphisms and the risk of triple negative breast cancer.	rs4696483	rs1898830
+4	METHODS: Genotyping of @gene$ and @gene$ polymorphisms was done by real time PCR in 488 women with BC  130 TNBC  358 non TNBC  and 476 cancer free control women.	rs4696483	TLR 2 rs1898830
+4	RESULTS: The minor allele frequency  @gene$  of @gene$ was significantly lower in BC cases compared to controls  and significantly lower frequencies of rs4696483 C T and higher frequencies of rs1898830 G G genotypes were seen in BC cases.	rs4696483	MAF
+5	RESULTS: The minor allele frequency  @gene$  of @gene$ was significantly lower in BC cases compared to controls  and significantly lower frequencies of @gene$ C T and higher frequencies of @gene$ G G genotypes were seen in BC cases.	rs4696483	rs1898830
+4	Significantly higher @gene$ of @gene$ and higher C T and T T rs4696483 genotypes frequencies were seen in TNBC than in non TNBC cases.	rs4696483	MAF
+4	In addition  @gene$ was positively correlated with hormonotherapy and surgery in non TNBC cases  while @gene$ was negatively associated with hormonotherapy.	rs4696483	rs1898830
+42	Furthermore  @gene$ was negatively and positively correlated with BMI in TNBC and TNBC cases  respectively  but positively with @gene$ status.	Ki 67	rs1898830
+27	However  the role of @gene$ in various cancers  including @gene$  remains poorly understood.	FAM72D	LUAD
+27	Additionally  we developed @gene$ cell lines overexpressing @gene$ to confirm its oncogenic role.	FAM72D	LUAD
+27	RESULTS: @gene$ expression was elevated in cancerous tissues compared to noncancerous tissues  with diagnostic and prognostic implications in many cancers  including @gene$.	FAM72D	LUAD
+27	Additionally  @gene$ was associated with immune infiltration and various immune checkpoint related genes in @gene$.	FAM72D	LUAD
+27	In vitro experiments demonstrated that @gene$ promoted cell proliferation  colony formation  and migration  while inhibiting apoptosis in @gene$ cells.	FAM72D	LUAD
+27	CONCLUSIONS: Our study establishes associations between @gene$ expression and diagnosis  prognosis  and tumour immunity across multiple cancers  as well as its oncogenic effects in @gene$.	FAM72D	LUAD
+27	@gene$ shows promise as a biomarker and therapeutic target in @gene$.	FAM72D	LUAD
+29	Here  we show that integrin alpha9 overexpression  @gene$ OE  plays a pivotal role in the extramedullary maintenance of LSCs by molecularly mimicking the niche interacting status  through the binding with its soluble ligand  osteopontin  @gene$ .	OPN	ITGA9
+30	Here  we show that integrin alpha9 overexpression  @gene$ OE  plays a pivotal role in the extramedullary maintenance of LSCs by molecularly mimicking the niche interacting status  through the binding with its soluble ligand  @gene$  @gene$ .	OPN	osteopontin
+31	Here  we show that @gene$ overexpression  @gene$ OE  plays a pivotal role in the extramedullary maintenance of LSCs by molecularly mimicking the niche interacting status  through the binding with its soluble ligand  @gene$  @gene$ .	OPN	integrin alpha9
+12	Retroviral insertional mutagenesis conducted on leukemia prone Runx deficient mice identified @gene$ OE as a novel leukemogenic event.	Itga9	Itga9 OE
+13	Retroviral insertional mutagenesis conducted on leukemia prone @gene$ deficient mice identified @gene$ OE as a novel leukemogenic event.	Itga9	Runx
+1	@gene$ OE activates Akt and @gene$ signaling pathways.	p38MAPK	Itga9
+2	@gene$ OE activates @gene$ and @gene$ signaling pathways.	p38MAPK	Akt
+52	The elevated @gene$ expression subsequently enhances ribosomal biogenesis to overcome the cell integrity defect caused by the preexisting @gene$ alteration.	Runx	Myc
+12	The @gene$ @gene$ axis  originally discovered in mice  was further confirmed in multiple human acute myeloid leukemia  AML  subtypes  other than RUNX leukemias.	Itga9	Myc
+29	Notably  the binding of @gene$ with soluble @gene$  a known negative regulator against HSC activation  induced LSC dormancy  while the disruption of ITGA9 soluble OPN interaction caused rapid cell propagation.	OPN	ITGA9
+36	These findings suggest that the @gene$ OE increases both actively proliferating leukemia cells and dormant LSCs in a well balanced manner  thereby maintaining LSCs.	ITGA9	ITGA9 OE
+36	The @gene$ OE would serve as a novel therapeutic target in AML.	ITGA9	ITGA9 OE
+8	HNF1a promotes colorectal cancer progression via @gene$ mediated activation of AKT @gene$ signaling pathway.	AMPK	HKDC1
+9	@gene$ promotes colorectal cancer progression via @gene$ mediated activation of AKT @gene$ signaling pathway.	AMPK	HNF1a
+10	@gene$ promotes colorectal cancer progression via @gene$ mediated activation of @gene$ @gene$ signaling pathway.	AMPK	AKT
+44	@gene$lpha knockdown and overexpression inhibited and promoted proliferation  migration and invasion of CRC cells both in vitro and in vivo respectively.	HNF1a	HNF1alpha
+8	Mechanistically  HNF1a increased the transcriptional activity of hexokinase domain component 1 @gene$ promoter  thus activated AKT @gene$ signaling.	AMPK	HKDC1
+9	Mechanistically  @gene$ increased the transcriptional activity of hexokinase domain component 1 @gene$ promoter  thus activated AKT @gene$ signaling.	AMPK	HNF1a
+10	Mechanistically  @gene$ increased the transcriptional activity of @gene$ @gene$ promoter  thus activated AKT @gene$ signaling.	AMPK	hexokinase domain component 1
+11	Mechanistically  @gene$ increased the transcriptional activity of @gene$ @gene$ promoter  thus activated @gene$ @gene$ signaling.	AMPK	AKT
+13	Meanwhile  @gene$ upregulation was important for the proliferation  migration and invasion of CRC cells and knockdown of HKDC1 significantly reversed the proliferation  migration and invasion induced by @gene$lpha overexpression.	HKDC1	HNF1a
+8	Taken together  HNF1a contributes to CRC progression and metastasis through binding to @gene$ and activating AKT @gene$ signaling.	AMPK	HKDC1
+9	Taken together  @gene$ contributes to CRC progression and metastasis through binding to @gene$ and activating AKT @gene$ signaling.	AMPK	HNF1a
+10	Taken together  @gene$ contributes to CRC progression and metastasis through binding to @gene$ and activating @gene$ @gene$ signaling.	AMPK	AKT

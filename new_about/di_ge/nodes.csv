@@ -1,0 +1,71 @@
+:ID,:TYPE,name
+di8,Disease,triple negative breast cancer
+di42,Disease,cancer
+di53,Disease,TNBC
+di19,Disease,NPC
+di102,Disease,Non SOM
+di83,Disease,SOM
+di101,Disease,TME
+di38,Disease,cytokine release syndrome
+di51,Disease,tumor
+di29,Disease,metastasis
+di70,Disease,malignant TME
+di43,Disease,CRC
+di34,Disease,tumors
+di40,Disease,glioma
+di60,Disease,metastatic melanoma
+di32,Disease,Breast cancer
+di36,Disease,retinoblastoma
+di14,Disease,LUAD
+di56,Disease,acute myeloid leukemia
+di30,Disease,Runx deficient
+di1,Disease,AML
+di61,Disease,leukemia
+ge69,Gene,PRMT5
+ge11,Gene,type II protein arginine methyltransferase
+ge41,Gene,KLF5
+ge24,Gene,glutathione peroxidase
+ge50,Gene,GSH PX
+ge49,Gene,TME
+ge47,Gene,AURKA
+ge72,Gene,hesperetin
+ge7,Gene,aurora kinase A
+ge63,Gene,HFPN
+ge2,Gene,MMP9
+ge40,Gene,dysadherin
+ge43,Gene,extracellular matrix
+ge10,Gene,matrix metalloprotease 9
+ge28,Gene,ECM
+ge17,Gene,POSTN
+ge65,Gene,Periostin
+ge6,Gene,periostin
+ge56,Gene,WDFY4
+ge15,Gene,LAG 3
+ge21,Gene,CD4
+ge70,Gene,PD 1 antibodies
+ge14,Gene,TGF beta
+ge75,Gene,MAPK
+ge35,Gene,ROS
+ge1,Gene,p38MAPK
+ge23,Gene,collagen
+ge3,Gene,FGF1
+ge16,Gene,anti PD1
+ge55,Gene,p21
+ge74,Gene,p27
+ge4,Gene,rs4696483
+ge66,Gene,rs1898830
+ge64,Gene,TLR 2 rs1898830
+ge38,Gene,MAF
+ge76,Gene,2 locus TLR 2 haplotype
+ge42,Gene,Ki 67
+ge67,Gene,TLR 2 genetic polymorphisms
+ge27,Gene,FAM72D
+ge54,Gene,LUAD
+ge30,Gene,Integrin alpha9
+ge12,Gene,Itga9
+ge60,Gene,Myc
+ge36,Gene,ITGA9
+ge8,Gene,AMPK
+ge13,Gene,HKDC1
+ge71,Gene,AKT
+ge44,Gene,HNF1a

@@ -1,0 +1,23 @@
+:ID,:TYPE,name
+ch12,Chemical,arginine
+ch9,Chemical,YZ 836P
+ch0,Chemical,glutathione
+ch3,Chemical,GSH
+ch5,Chemical,iron
+ch7,Chemical,hesperetin
+ch4,Chemical,oxygen
+ge11,Gene,type II protein arginine methyltransferase
+ge69,Gene,PRMT5
+ge41,Gene,KLF5
+ge18,Gene,CRBN
+ge24,Gene,glutathione peroxidase
+ge50,Gene,GSH PX
+ge43,Gene,extracellular matrix
+ge63,Gene,HFPN
+ge72,Gene,hesperetin
+ge7,Gene,aurora kinase A
+ge47,Gene,AURKA
+ge6,Gene,periostin
+ge49,Gene,TME
+ge56,Gene,WDFY4
+ge35,Gene,ROS

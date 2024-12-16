@@ -1,0 +1,35 @@
+:ID,:TYPE,name
+ch12,Chemical,arginine
+ch9,Chemical,YZ 836P
+ch0,Chemical,glutathione
+ch3,Chemical,GSH
+ch6,Chemical,AOC
+ch5,Chemical,iron
+ch2,Chemical,polypropylene
+ch7,Chemical,hesperetin
+ch1,Chemical,TEA
+ch4,Chemical,oxygen
+ch8,Chemical,vitamin C
+di42,Disease,cancer
+di53,Disease,TNBC
+di19,Disease,NPC
+di66,Disease,nasopharyngeal carcinoma
+di105,Disease,oral mucositis
+di83,Disease,SOM
+di102,Disease,Non SOM
+di16,Disease,Ferroptosis
+di57,Disease,non cancer
+di96,Disease,thoraco abdominal wall defects
+di27,Disease,chondrosarcoma
+di8,Disease,triple negative breast cancer
+di51,Disease,tumor
+di37,Disease,anastomotic ulcers
+di39,Disease,Reflux esophagitis
+di10,Disease,dumping syndrome
+di31,Disease,diarrhea
+di29,Disease,metastasis
+di43,Disease,CRC
+di101,Disease,TME
+di32,Disease,Breast cancer
+di34,Disease,tumors
+di63,Disease,breast cancer

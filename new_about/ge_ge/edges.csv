@@ -1,0 +1,64 @@
+start,relation,end,date
+type II protein arginine methyltransferase,regulation,PRMT5,2024/11/30
+KLF5,binding,PRMT5,2024/11/30
+CRBN,binding,PRMT5,2024/11/30
+glutathione peroxidase,regulation,GSH PX,2024/11/30
+extracellular matrix,activates,TME,2024/11/30
+AURKA,binding,hesperetin,2024/11/30
+HFPN,activates,hesperetin,2024/11/30
+aurora kinase A,binding,AURKA,2024/11/30
+aurora kinase A,regulation,hesperetin,2024/11/30
+AURKA,regulation,HFPN,2024/11/30
+MMP9,regulation,extracellular matrix,2024/11/30
+ECM,regulation,extracellular matrix,2024/11/30
+MMP9,regulation,matrix metalloprotease 9,2024/11/30
+MMP9,regulation,TME,2024/11/30
+MMP9,regulation,ECM,2024/11/30
+MMP9,regulation,dysadherin,2024/11/30
+ECM,regulation,dysadherin,2024/11/30
+ECM,regulation,TME,2024/11/30
+POSTN,regulation,Periostin,2024/11/30
+periostin,regulation,ECM,2024/11/30
+periostin,binding,extracellular matrix,2024/11/30
+periostin,binding,TME,2024/11/30
+periostin,regulation,Periostin,2024/11/30
+LAG 3,regulation,immunoglobulin superfamily,2024/11/30
+LAG 3,regulation,CD4,2024/11/30
+LAG 3,regulation,Ig like domains,2024/11/30
+LAG 3,binding,PD 1 antibodies,2024/11/30
+TGF beta,activates,TGF beta1,2024/11/30
+TGF beta,binding,ECM,2024/11/30
+TGF beta,binding,extracellular matrix,2024/11/30
+TGF beta,binding,MAPK,2024/11/30
+ECM,binding,ROS,2024/11/30
+p38MAPK,regulation,TGF beta,2024/11/30
+p38MAPK,regulation,collagen,2024/11/30
+FGF1,binding,GRB14,2024/11/30
+FGF1,binding,CD4,2024/11/30
+FGF1,binding,PDGFRA,2024/11/30
+FGF1,binding,PAK3,2024/11/30
+FGF1,binding,PRKD1,2024/11/30
+FGF1,regulation,anti PD1,2024/11/30
+p21,binding,p27,2024/11/30
+rs4696483,activates,Toll like receptor 2 rs4696483,2024/11/30
+rs4696483,binding,rs1898830,2024/11/30
+rs4696483,binding,TLR 2 rs1898830,2024/11/30
+rs4696483,regulation,MAF,2024/11/30
+Ki 67,binding,rs1898830,2024/11/30
+FAM72D,regulation,LUAD,2024/11/30
+OPN,binding,osteopontin,2024/11/30
+OPN,binding,integrin alpha9,2024/11/30
+Itga9,regulation,Itga9 OE,2024/11/30
+Itga9,regulation,Runx,2024/11/30
+p38MAPK,regulation,Itga9,2024/11/30
+p38MAPK,binding,Akt,2024/11/30
+Runx,binding,Myc,2024/11/30
+Itga9,regulation,Myc,2024/11/30
+OPN,regulation,ITGA9,2024/11/30
+ITGA9,regulation,ITGA9 OE,2024/11/30
+HNF1a,regulation,HNF1alpha,2024/11/30
+AMPK,activates,hexokinase domain component 1,2024/11/30
+HKDC1,binding,HNF1a,2024/11/30
+AMPK,binding,HKDC1,2024/11/30
+AMPK,regulation,HNF1a,2024/11/30
+AMPK,regulation,AKT,2024/11/30
