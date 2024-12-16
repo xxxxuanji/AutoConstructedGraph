@@ -1,0 +1,199 @@
+:ID,:TYPE,name
+ch12,Chemical,arginine
+ch9,Chemical,YZ 836P
+ch0,Chemical,glutathione
+ch3,Chemical,GSH
+ch6,Chemical,AOC
+ch5,Chemical,iron
+ch2,Chemical,polypropylene
+ch7,Chemical,hesperetin
+ch1,Chemical,TEA
+ch4,Chemical,oxygen
+ch8,Chemical,vitamin C
+di42,Disease,cancer
+di53,Disease,TNBC
+di19,Disease,NPC
+di66,Disease,nasopharyngeal carcinoma
+di105,Disease,oral mucositis
+di83,Disease,SOM
+di102,Disease,Non SOM
+di16,Disease,Ferroptosis
+di57,Disease,non cancer
+di96,Disease,thoraco abdominal wall defects
+di27,Disease,chondrosarcoma
+di8,Disease,triple negative breast cancer
+di51,Disease,tumor
+di37,Disease,anastomotic ulcers
+di39,Disease,Reflux esophagitis
+di10,Disease,dumping syndrome
+di31,Disease,diarrhea
+di29,Disease,metastasis
+di43,Disease,CRC
+di101,Disease,TME
+di32,Disease,Breast cancer
+di34,Disease,tumors
+di63,Disease,breast cancer
+ch12,Chemical,arginine
+ch9,Chemical,YZ 836P
+ch0,Chemical,glutathione
+ch3,Chemical,GSH
+ch5,Chemical,iron
+ch7,Chemical,hesperetin
+ch4,Chemical,oxygen
+ge11,Gene,type II protein arginine methyltransferase
+ge69,Gene,PRMT5
+ge41,Gene,KLF5
+ge18,Gene,CRBN
+ge24,Gene,glutathione peroxidase
+ge50,Gene,GSH PX
+ge43,Gene,extracellular matrix
+ge63,Gene,HFPN
+ge72,Gene,hesperetin
+ge7,Gene,aurora kinase A
+ge47,Gene,AURKA
+ge6,Gene,periostin
+ge49,Gene,TME
+ge56,Gene,WDFY4
+ge35,Gene,ROS
+di8,Disease,triple negative breast cancer
+di42,Disease,cancer
+di53,Disease,TNBC
+di19,Disease,NPC
+di102,Disease,Non SOM
+di83,Disease,SOM
+di101,Disease,TME
+di38,Disease,cytokine release syndrome
+di51,Disease,tumor
+di29,Disease,metastasis
+di70,Disease,malignant TME
+di43,Disease,CRC
+di34,Disease,tumors
+di40,Disease,glioma
+di60,Disease,metastatic melanoma
+di32,Disease,Breast cancer
+di36,Disease,retinoblastoma
+di14,Disease,LUAD
+di56,Disease,acute myeloid leukemia
+di30,Disease,Runx deficient
+di1,Disease,AML
+di61,Disease,leukemia
+ge69,Gene,PRMT5
+ge11,Gene,type II protein arginine methyltransferase
+ge41,Gene,KLF5
+ge24,Gene,glutathione peroxidase
+ge50,Gene,GSH PX
+ge49,Gene,TME
+ge47,Gene,AURKA
+ge72,Gene,hesperetin
+ge7,Gene,aurora kinase A
+ge63,Gene,HFPN
+ge2,Gene,MMP9
+ge40,Gene,dysadherin
+ge43,Gene,extracellular matrix
+ge10,Gene,matrix metalloprotease 9
+ge28,Gene,ECM
+ge17,Gene,POSTN
+ge65,Gene,Periostin
+ge6,Gene,periostin
+ge56,Gene,WDFY4
+ge15,Gene,LAG 3
+ge21,Gene,CD4
+ge70,Gene,PD 1 antibodies
+ge14,Gene,TGF beta
+ge75,Gene,MAPK
+ge35,Gene,ROS
+ge1,Gene,p38MAPK
+ge23,Gene,collagen
+ge3,Gene,FGF1
+ge16,Gene,anti PD1
+ge55,Gene,p21
+ge74,Gene,p27
+ge4,Gene,rs4696483
+ge66,Gene,rs1898830
+ge64,Gene,TLR 2 rs1898830
+ge38,Gene,MAF
+ge76,Gene,2 locus TLR 2 haplotype
+ge42,Gene,Ki 67
+ge67,Gene,TLR 2 genetic polymorphisms
+ge27,Gene,FAM72D
+ge54,Gene,LUAD
+ge30,Gene,Integrin alpha9
+ge12,Gene,Itga9
+ge60,Gene,Myc
+ge36,Gene,ITGA9
+ge8,Gene,AMPK
+ge13,Gene,HKDC1
+ge71,Gene,AKT
+ge44,Gene,HNF1a
+ge11,Gene,type II protein arginine methyltransferase
+ge41,Gene,KLF5
+ge18,Gene,CRBN
+ge24,Gene,glutathione peroxidase
+ge43,Gene,extracellular matrix
+ge47,Gene,AURKA
+ge63,Gene,HFPN
+ge7,Gene,aurora kinase A
+ge2,Gene,MMP9
+ge28,Gene,ECM
+ge17,Gene,POSTN
+ge6,Gene,periostin
+ge15,Gene,LAG 3
+ge14,Gene,TGF beta
+ge1,Gene,p38MAPK
+ge3,Gene,FGF1
+ge55,Gene,p21
+ge4,Gene,rs4696483
+ge42,Gene,Ki 67
+ge27,Gene,FAM72D
+ge29,Gene,OPN
+ge12,Gene,Itga9
+ge52,Gene,Runx
+ge36,Gene,ITGA9
+ge44,Gene,HNF1a
+ge8,Gene,AMPK
+ge13,Gene,HKDC1
+ge69,Gene,PRMT5
+ge50,Gene,GSH PX
+ge49,Gene,TME
+ge72,Gene,hesperetin
+ge47,Gene,AURKA
+ge63,Gene,HFPN
+ge43,Gene,extracellular matrix
+ge10,Gene,matrix metalloprotease 9
+ge28,Gene,ECM
+ge40,Gene,dysadherin
+ge65,Gene,Periostin
+ge58,Gene,immunoglobulin superfamily
+ge21,Gene,CD4
+ge25,Gene,Ig like domains
+ge70,Gene,PD 1 antibodies
+ge51,Gene,TGF beta1
+ge75,Gene,MAPK
+ge35,Gene,ROS
+ge14,Gene,TGF beta
+ge23,Gene,collagen
+ge59,Gene,GRB14
+ge26,Gene,PDGFRA
+ge34,Gene,PAK3
+ge48,Gene,PRKD1
+ge16,Gene,anti PD1
+ge74,Gene,p27
+ge19,Gene,Toll like receptor 2 rs4696483
+ge66,Gene,rs1898830
+ge64,Gene,TLR 2 rs1898830
+ge38,Gene,MAF
+ge54,Gene,LUAD
+ge39,Gene,osteopontin
+ge57,Gene,integrin alpha9
+ge31,Gene,Itga9 OE
+ge52,Gene,Runx
+ge12,Gene,Itga9
+ge68,Gene,Akt
+ge60,Gene,Myc
+ge36,Gene,ITGA9
+ge62,Gene,ITGA9 OE
+ge73,Gene,HNF1alpha
+ge45,Gene,hexokinase domain component 1
+ge44,Gene,HNF1a
+ge13,Gene,HKDC1
+ge71,Gene,AKT
